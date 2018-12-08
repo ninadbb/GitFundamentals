@@ -23,7 +23,7 @@ help.autocorrect=1
 ```
 
 
-## Git Local
+### Git Local
 
 * create local repo:  
 `$ git init`
