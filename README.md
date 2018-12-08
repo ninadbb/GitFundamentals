@@ -70,6 +70,13 @@ help.autocorrect=1
 `$ git clone https://github.com/jquery/query.git `
 
 * Fetching from remote  
-`$ git remote add origin https://github.com/username/GitFundamentals.git`
+`$ git remote add origin https://github.com/username/GitFundamentals.git`  
 `$ git fetch`  
 `$ git fetch origin`  
+
+* Pulling from remote  
+`$ git pull`
+
+* Pushing to remote  
+`& git push`
+
