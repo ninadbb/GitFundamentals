@@ -87,4 +87,6 @@ help.autocorrect=1
 `$ git push origin feature/newbranch`
 * View all remote branches  
 `$ git branch --all`  
-`$ git branch -a`
+`$ git branch -a`  
+* Checkout a branch / switch to a particular branch  
+`$ git checkout feature/newbranch`
