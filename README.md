@@ -80,3 +80,8 @@ help.autocorrect=1
 * Pushing to remote  
 `& git push`
 
+### Git Branching
+* Create a branch in local  
+`git checkout -b feature/newbranch`
+* push a new branch in the local repo named feature/newbranch to the remote repo with the nickname origin:  
+`git push origin feature/newbranch`
